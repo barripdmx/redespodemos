@@ -1,10 +1,10 @@
 /*** USE THIS FILE TO SET OPTIONS ***/
 
 GexfJS.setParams({
-    graphFile : "miserables.gexf",
+    graphFile : "elppnossalecaro.gexf",
         /*
             The GEXF file to show ! -- can be overriden by adding
-            a hash to the document location, e.g. index.html#celegans.gexf
+            a hash to the document location, e.g. index.html#elppnossalecaro.gexf
             GEXF files can now be replaced by pre-processed JSON files (use gexf2json.py)
             for faster load time
         */
